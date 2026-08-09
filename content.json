@@ -1,0 +1,197 @@
+{
+  "site": {
+    "clubName": "Thunder Strike Combat Club",
+    "tagline": "Discipline. Aggression. Power.",
+    "logo": "/images/logo.png",
+    "youtube": "https://www.youtube.com/shorts/0opXvwVsgOk",
+    "phone": "+91 70838 21976",
+    "whatsapp": "+91 70838 21976",
+    "email": "train@thunderstrikecombat.club",
+    "locationName": "Dobi Talo Stadium, Bhiwandi, Thane, Maharashtra, India",
+    "iwufLink": "https://www.iwuf.org/en/calendar/index.html"
+  },
+  "coach": {
+    "name": "Coach Vikram Rathore",
+    "role": "Founder & Head Coach, Thunder Strike Combat Club",
+    "bio": "Coach Vikram has spent over a decade on both sides of the mat — first as a competitive Wushu athlete, then as the coach who built Thunder Strike from a single rented hall into a full multi-discipline combat academy. His training blends traditional Wushu Sanda and Taolu with Taekwondo, Karate, Judo and Wrestling fundamentals, plus dedicated strength and weight-loss coaching for adults. Every student, from a nervous first-timer to a state-squad hopeful, gets the same hands-on attention.",
+    "specialties": [
+      "Wushu Sanda (Full-Contact Fighting)",
+      "Wushu Taolu (Forms & Weapons)",
+      "Taekwondo",
+      "Karate",
+      "Judo",
+      "Wrestling",
+      "Weight Loss Training",
+      "Strength & Conditioning"
+    ],
+    "credentials": [
+      "15+ years of competitive & coaching experience across multiple combat disciplines",
+      "Specialist in Wushu Sanda full-contact fighting",
+      "Cross-trained and certified in Taekwondo, Karate, Judo & Wrestling",
+      "Dedicated Weight Loss & Strength Training programs for adults",
+      "Regularly follows international Wushu tournaments and rule updates via IWUF"
+    ],
+    "skills": [
+      {
+        "name": "Wushu Sanda (Fighting)",
+        "level": 98
+      },
+      {
+        "name": "Wushu Taolu (Forms & Weapons)",
+        "level": 94
+      },
+      {
+        "name": "Taekwondo",
+        "level": 88
+      },
+      {
+        "name": "Karate",
+        "level": 86
+      },
+      {
+        "name": "Judo & Wrestling",
+        "level": 85
+      },
+      {
+        "name": "Weight Loss & Strength Training",
+        "level": 92
+      }
+    ],
+    "photos": [
+      "/images/coach-1.jpg",
+      "/images/coach-2.jpg",
+      "/images/coach-3.jpg",
+      "/images/coach-4.jpg",
+      "/images/coach-5.jpg",
+      "/images/coach-6.jpg"
+    ]
+  },
+  "stats": [
+    {
+      "label": "Years Running",
+      "value": "10+"
+    },
+    {
+      "label": "Students Trained",
+      "value": "500+"
+    },
+    {
+      "label": "Disciplines Taught",
+      "value": "6+"
+    },
+    {
+      "label": "Champions Produced",
+      "value": "12"
+    }
+  ],
+  "programs": [
+    {
+      "name": "Foundation",
+      "ages": "Ages 6-12",
+      "desc": "Coordination, discipline and combat-sport basics through games and guided drills."
+    },
+    {
+      "name": "Wushu Combat Track",
+      "ages": "Ages 13-17",
+      "desc": "Dual-track Sanda fighting & Taolu forms with structured grading."
+    },
+    {
+      "name": "Multi-Discipline Adult",
+      "ages": "Ages 18+",
+      "desc": "Taekwondo, Karate, Judo & Wrestling fundamentals in one program."
+    },
+    {
+      "name": "Weight Loss & Strength",
+      "ages": "All ages",
+      "desc": "Combat-fitness conditioning built around your weight & strength goals."
+    }
+  ],
+  "schedule": [
+    {
+      "day": "Monday - Wednesday - Friday",
+      "rows": [
+        [
+          "5:00 - 6:00 PM",
+          "Foundation (6-12 yrs)"
+        ],
+        [
+          "6:00 - 7:30 PM",
+          "Wushu Combat Track"
+        ],
+        [
+          "7:30 - 9:00 PM",
+          "Sanda Sparring & Weapons Taolu"
+        ]
+      ]
+    },
+    {
+      "day": "Tuesday - Thursday",
+      "rows": [
+        [
+          "6:00 - 7:00 PM",
+          "Weight Loss & Strength"
+        ],
+        [
+          "7:00 - 8:30 PM",
+          "Taekwondo / Karate"
+        ]
+      ]
+    },
+    {
+      "day": "Saturday",
+      "rows": [
+        [
+          "9:00 - 11:00 AM",
+          "Judo & Wrestling Clinic"
+        ],
+        [
+          "11:00 AM - 1:00 PM",
+          "Open Mat (All levels)"
+        ]
+      ]
+    },
+    {
+      "day": "Sunday",
+      "rows": [
+        [
+          "-",
+          "Rest & Recovery - academy closed"
+        ]
+      ]
+    }
+  ],
+  "hallOfFame": [
+    {
+      "name": "Aakash Verma",
+      "achievement": "State Champion, Sanda -65kg, 2025",
+      "photo": "/images/coach-3.jpg"
+    },
+    {
+      "name": "Priya Nair",
+      "achievement": "Gold Medalist, Taolu Invitational, 2024",
+      "photo": "/images/coach-5.jpg"
+    },
+    {
+      "name": "Rohan Shaikh",
+      "achievement": "District Champion, Wrestling, 2025",
+      "photo": "/images/coach-4.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "My son went from tripping over his own feet to landing a full Taolu weapons routine in eight months.",
+      "name": "Meera Kulkarni",
+      "role": "Parent, Foundation batch"
+    },
+    {
+      "quote": "The Sanda sparring sessions are the realest training I've had. Hard, honest, and it made me calmer outside the ring too.",
+      "name": "Aakash Verma",
+      "role": "Wushu Combat Track"
+    },
+    {
+      "quote": "I joined for weight loss with zero martial arts background. A year later I medaled at a state Taolu invitational.",
+      "name": "Priya Nair",
+      "role": "Multi-Discipline Adult"
+    }
+  ]
+}
